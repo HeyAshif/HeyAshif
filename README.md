@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 🔭 I’m currently working on proabbility and Dynamical Systems
 ## 🌱 I’m currently learning python
-## 🤔 I’m looking for help with Introducntion to Gihub and Python
+## 🤔 I’m looking for help with Introducntion to GitHub and Python
 <!--
 **HeyAshif/HeyAshif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
